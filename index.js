@@ -12,4 +12,3 @@ function iterate(callback){
 doToArray(array, callback){
   array.forEach(callback);
 }
-165.277.31.156.34870
