@@ -9,6 +9,6 @@ function iterate(callback){
   array.forEach(callback);
   return array;
 }
-doToArray(array, callback){
+function doToArray(array, callback){
   array.forEach(callback);
 }
