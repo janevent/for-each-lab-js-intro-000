@@ -1,9 +1,8 @@
 
 function iterativeLog(array){
-  array.forEach(console.log(`${index}: ${element}))
-console.log(`${index): ${element}`);
+  array.forEach(console.log(`${index}: ${element}`);
 }
-array.forEach(interativeLog);
+
 
 function iterate(callback){
   var array = ['shoes', 'socks', 'dress'];
